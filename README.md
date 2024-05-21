@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Okori!
+## Web3 development and Data engineering
 
-<!--
-**okori-d/okori-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a freelance developer and crypto enthusiast with a Bsc. degree in Computer science. I aim to leverage my skills and knowledge in web3 development and data engineering.
 
-Here are some ideas to get you started:
+## 📊 My Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okori-d&show_icons=true&theme=dark&show=prs_merged,prs_merged_percentage)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Experience
+* 🐍 Python
+* ⚛️ Typescript
+* ☕ Java
+* 🙂 C
+* 💻 JS
+
+
+
+
+
