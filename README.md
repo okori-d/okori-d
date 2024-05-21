@@ -2,7 +2,7 @@
 
 ![Hello world](https://github.com/okori-d/okori-d/blob/main/wallpaperflare-cropped.jpg)
 
-## Web3 development and Data engineering
+## 📈💻Web3 development and Data engineering📊🧑‍💻
 
 I'm a freelance developer and crypto enthusiast with a Bsc. degree in Computer science. I aim to leverage my skills and knowledge in web3 development and data engineering.
 
