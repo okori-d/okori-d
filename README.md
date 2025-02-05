@@ -14,7 +14,7 @@ I'm a freelance developer and crypto enthusiast with a Bsc. degree in Computer s
 * 💻 JS, HTML
 
 ## 📊 My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okori-d&show_icons=true&theme=transparent&show=prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats-beta-rose-84.vercel.app/api?username=okori-d&show_icons=true&theme=transparent&show=prs_merged,prs_merged_percentage)
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okori-d&layout=compact&theme=transparent)
 ##
